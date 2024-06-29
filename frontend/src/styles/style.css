@@ -1,0 +1,73 @@
+.currency-list {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.currency-item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.currency-item h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.currency-item p {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.currency-rates {
+  margin-top: 10px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.rate-item {
+  margin-top: 10px;
+}
+
+.rate-item p {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.home h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.description a {
+  color: #258dfd;
+  text-decoration: none;
+}
+
+.description a:hover {
+  text-decoration: underline;
+}
+
+
+  
